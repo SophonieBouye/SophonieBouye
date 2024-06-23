@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
+I'm someone who is passionate about **UNIX/BSD** & **GNU/Linux** and likes to **write code**.
 
 - 🔭 I’m currently working on myself and my skills
 - 💬 Ask me about JS/TS, Docker, Linux, Node.js
