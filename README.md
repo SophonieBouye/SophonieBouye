@@ -5,12 +5,12 @@ I'm someone who is passionate about **UNIX/BSD** & **GNU/Linux** and likes to **
 - 💬 Ask me about JS/TS, Docker, Linux, Node.js
 - 🧑‍💻 Basically this is my beloved stack:
   - :elephant: PostgreSQL, :seedling: MongoDB
-  - Laravel
-  - Fastify, NextJS
+  - PHP (Laravel, Symfony, and more...)
+  - Nodejs, Fastify, NextJS
   - NestJS, ReactJS, Vuejs
-  - :snake: JavaScript, Typescript
+  - :snake: Python (Django, Flask), JavaScript & Typescript
   - 🐳 Docker
-  - 🐧 Linux
+  - 🐧 GNU/Linux, OpenBSD
 - 📫 How to reach me:
-  - LinkedIn [Sophonie Bouye](https://www.linkedin.com/in/sophoniie_/)
-  - Twitter [@Sophonie_](https://twitter.com/sophonie_)
+  - LinkedIn [Sophonie Bouye](https://www.linkedin.com/in/sophone-bouye_/)
+  - Twitter [@Sophonie_](https://twitter.com/Sophonie_)
