@@ -12,5 +12,5 @@ I'm someone who is passionate about **UNIX/BSD** & **GNU/Linux** and likes to **
   - 🐳 Docker
   - 🐧 GNU/Linux, OpenBSD
 - 📫 How to reach me:
-  - LinkedIn [Sophonie Bouye](https://www.linkedin.com/in/sophone-bouye_/)
+  - LinkedIn [Sophonie Bouye](https://www.linkedin.com/in/sophone-bouye/)
   - Twitter [@Sophonie_](https://twitter.com/Sophonie_)
